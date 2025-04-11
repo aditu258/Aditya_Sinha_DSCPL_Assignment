@@ -286,10 +286,8 @@ mkdir dscpl_data
 
 3. Run the container in interactive terminal mode with volume mounting (Windows PowerShell):
 ```bash
-docker run -it -e GOOGLE_API_KEY=AIzaSyArcqpgFq13RLI9mlb6DOCmr1L5OXhf2-w -v ${PWD}/dscpl_data:/app/dscpl_history.db chatbot-assignment-aditya-sinha
+docker run -it -e GOOGLE_API_KEY=Your-Google_Api-Key -v ${PWD}/dscpl_data:/app/dscpl_history.db chatbot-assignment-aditya-sinha
 ```
-
-Replace `your_google_api_key_here` with your actual Google API key
 
 ### Managing Containers and Images
 
