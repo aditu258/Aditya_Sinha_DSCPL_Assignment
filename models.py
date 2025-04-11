@@ -42,7 +42,7 @@ class Config:
     API_BASE_URL = "https://api.socialverseapp.com"
     FLIC_TOKEN = "flic_b1c6b09d98e2d4884f61b9b3131dbb27a6af84788e4a25db067a22008ea9cce5"
     GOOGLE_CREDENTIALS_FILE = "credentials.json"  # Simplified path
-    SCOPES = ['https://www.googleapis.com/auth/calendar','https://www.googleapis.com/auth/calendar.events.owned']
+    SCOPES = ['','']
 
 # Simplified category enum
 class Category(str, Enum):
