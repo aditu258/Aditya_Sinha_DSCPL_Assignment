@@ -1,4 +1,4 @@
-# DSCPL (Daily Spiritual Content & Prayer Life) Assistant
+# DSCPL Assistant
 
 ## Project Overview
 DSCPL is an AI-powered spiritual assistance platform that combines state management, language models, and external APIs to provide personalized spiritual guidance. The project is built using a modern architecture that leverages LangGraph for workflow management and Google's Gemini Pro for content generation.
@@ -8,7 +8,7 @@ Watch the project demo: [DSCPL Demo Video](https://drive.google.com/file/d/1Ze55
 
 ## Calendar Integration
 The application integrates with Google Calendar to help you stay on track with your spiritual journey:
-![Calendar Notifications](calender_notification.png)
+![Calendar Notifications]([calender_notification.png](https://github.com/aditu258/Aditya_Sinha_DSCPL_Assignment/blob/2fa71754e1167fd781385cc66fba5925b83a67b2/Calender_notification.jpg))
 
 ## System Architecture
 ![DSCPL System Architecture](MERMAID_CHART.png)
